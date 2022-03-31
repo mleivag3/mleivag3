@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Marco, I'm from Guatemala and I'm an systems engineer.
 * Currently working for [@Popoyan.com]) as a Staff implementation
-* I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes.
+* 
 
 
 <!--

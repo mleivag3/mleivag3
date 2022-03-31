@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Marco, I'm from Guatemala and I'm an systems engineer.
+My name is Marco, I'm from Guatemala and I'm a systems engineer.
 * Currently working for [@Popoyan.com]) as a Staff implementation
 * Cybersecurity enthusiast
 ### Skills

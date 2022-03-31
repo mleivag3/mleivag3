@@ -4,7 +4,14 @@ My name is Marco, I'm from Guatemala and I'm an systems engineer.
 * Cybersecurity enthusiast
 ### Skills
 * Linux Administrator
-* 
+* Using Docker in production and DevOps
+* Some Python,php & C coding
+* Use Jenkins in production for DevOps
+* Master's in CyberSecurity
+* Special skills and experience in technologies of cybersecurity 
+* Special skills and experience in ManageEngine
+
+ 🌱 I’m currently learning Kubernetes,Angular, Docker Swarm , ISO27001.
 
 
 

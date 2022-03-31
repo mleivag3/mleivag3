@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Marco, I'm from Guatemala and I'm an systems engineer.
 * Currently working for [@Popoyan.com]) as a Staff implementation
-* * Cyber security enthusiast
+* Cybersecurity enthusiast
 
 
 <!--

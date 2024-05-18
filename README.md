@@ -1,6 +1,6 @@
 ### Hello 👋
 My name is Marco, I'm from Guatemala and I'm a systems engineer.
-* Currently working for [@Popoyan.com]) as a Staff implementation
+* Currently working for Nexabit as a Staff implementation
 * Cybersecurity enthusiast
 ### Skills
 * Linux Administrator

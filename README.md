@@ -1,6 +1,6 @@
 ### Hello 👋
 My name is Marco, I'm from Guatemala and I'm a systems engineer.
-* Currently working for Nexabit as a Staff implementation
+* DevOps enthusiast
 * Cybersecurity enthusiast
 ### Skills
 * Linux Administrator

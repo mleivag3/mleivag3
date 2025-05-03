@@ -74,6 +74,65 @@
 
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
+<!-- Manage Engine -->
+<img src="https://seeklogo.com/vector-logo/342392/manageengine" height="30" alt="Manage Engine logo" />
+<img width="12" />
+<!-- Nikto -->
+<img src="https://www.cirt.net/Nikto2/images/nikto-logo.svg" height="30" alt="Nikto logo" />
+<img width="12" />
+<!-- Nmap -->
+<img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
+<img width="12" />
+<!-- Burp Suite -->
+<img src="https://www.svgrepo.com/svg/454430/burpsuite-security-software" height="30" alt="Burp Suite logo" />
+<img width="12" />
+<!-- Cloudflare -->
+<img src="https://commons.wikimedia.org/wiki/File:Cloudflare_Logo.svg" height="30" alt="Cloudflare logo" />
+<img width="12" />
+<!-- Nginx -->
+<img src="https://www.svgrepo.com/svg/373312/nginx" height="30" alt="Nginx logo" />
+<img width="12" />
+<!-- Apache -->
+<img src="https://www.svgrepo.com/svg/353400/apache" height="30" alt="Apache logo" />
+<img width="12" />
+<!-- Apache JMeter -->
+<img src="https://www.svgrepo.com/svg/329945/apachejmeter" height="30" alt="Apache JMeter logo" />
+<img width="12" />
+<!-- Apache Guacamole -->
+<img src="https://commons.wikimedia.org/wiki/File:Apache_Guacamole_logo.png" height="30" alt="Apache Guacamole logo" />
+<img width="12" />
+<!-- Snort -->
+<img src="https://www.svgrepo.com/svg/374085/snort" height="30" alt="Snort logo" />
+<img width="12" />
+<!-- Suricata -->
+<img src="https://www.svgrepo.com/svg/374085/suricata" height="30" alt="Suricata logo" />
+<img width="12" />
+<!-- Nessus -->
+<img src="https://commons.wikimedia.org/wiki/File:Nessus-Professional-FullColor-RGB.svg" height="30" alt="Nessus logo" />
+<img width="12" />
+<!-- OpenVAS -->
+<img src="https://commons.wikimedia.org/wiki/File:OpenVAS-Logo-2010.png" height="30" alt="OpenVAS logo" />
+<img width="12" />
+<!-- Wireshark -->
+<img src="https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg" height="30" alt="Wireshark logo" />
+<img width="12" />
+<!-- Metasploit -->
+<img src="https://commons.wikimedia.org/wiki/File:Metasploit_logo_and_wordmark.svg" height="30" alt="Metasploit logo" />
+<img width="12" />
+<!-- John The Ripper -->
+<img src="https://www.svgrepo.com/svg/374085/john-the-ripper" height="30" alt="John The Ripper logo" />
+<img width="12" />
+<!-- Aircrack-ng -->
+<img src="https://www.svgrepo.com/svg/374085/aircrack-ng" height="30" alt="Aircrack-ng logo" />
+<img width="12" />
+<!-- Hydra -->
+<img src="https://www.svgrepo.com/svg/374085/hydra" height="30" alt="Hydra logo" />
+<img width="12" />
+<!-- Netcat -->
+<img src="https://www.svgrepo.com/svg/374085/netcat" height="30" alt="Netcat logo" />
+<img width="12" />
+<!-- Sqmap -->
+<img src="https://www.svgrepo.com/svg/374085/sqmap" height="30" alt="Sqmap logo" />
 
 
 </div>

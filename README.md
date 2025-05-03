@@ -109,7 +109,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ssgbiwYHOi9gIXt9pGCJYw.png" height="30" alt="OpenVAS logo" />
 <img width="12" />
 <!-- Wireshark -->
-<img src="https://cdn.iconduck.com/icons/311/504/wireshark-alt.svg](https://images.icon-icons.com/1495/PNG/512/wireshark_103123.png)" height="30" alt="Wireshark logo" />
+<img src="https://images.icon-icons.com/1495/PNG/512/wireshark_103123.png" height="30" alt="Wireshark logo" />
 <img width="12" />
 </div>
 

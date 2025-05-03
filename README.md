@@ -74,12 +74,6 @@
 
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
-<!-- Manage Engine -->
-<img src="https://seeklogo.com/vector-logo/342392/manageengine" height="30" alt="Manage Engine logo" />
-<img width="12" />
-<!-- Nikto -->
-<img src="https://www.cirt.net/Nikto2/images/nikto-logo.svg" height="30" alt="Nikto logo" />
-<img width="12" />
 <!-- Nmap -->
 <img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
 <img width="12" />
@@ -121,18 +115,8 @@
 <img width="12" />
 <!-- John The Ripper -->
 <img src="https://www.svgrepo.com/svg/374085/john-the-ripper" height="30" alt="John The Ripper logo" />
-<img width="12" />
-<!-- Aircrack-ng -->
-<img src="https://www.svgrepo.com/svg/374085/aircrack-ng" height="30" alt="Aircrack-ng logo" />
-<img width="12" />
-<!-- Hydra -->
-<img src="https://www.svgrepo.com/svg/374085/hydra" height="30" alt="Hydra logo" />
-<img width="12" />
-<!-- Netcat -->
-<img src="https://www.svgrepo.com/svg/374085/netcat" height="30" alt="Netcat logo" />
-<img width="12" />
-<!-- Sqmap -->
-<img src="https://www.svgrepo.com/svg/374085/sqmap" height="30" alt="Sqmap logo" />
+<img
+
 
 
 </div>

@@ -75,7 +75,7 @@
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
 <!-- Manage Engine -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="manage engine logo" />
+<img src="https://cdn.simpleicons.org/manageengine/01B0F0" height="30" alt="manage engine logo" />
 <img width="12" />
 <!-- Nikto -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nikto/nikto-original.svg" height="30" alt="nikto logo" />
@@ -133,6 +133,7 @@
 <img width="12" />
 <!-- Sqmap -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqmap/sqmap-original.svg" height="30" alt="sqmap logo" />
+
 
 </div>
 

@@ -74,24 +74,78 @@
 
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
-- ![Nmap](https://nmap.org/images/sitelogo-nmap.svg) Nmap
-- ![Burp Suite](https://www.svgrepo.com/svg/454430/burpsuite-security-software) Burp Suite
-- ![Cloudflare](https://commons.wikimedia.org/wiki/File:Cloudflare_Logo.svg) Cloudflare
-- ![Nginx](https://www.svgrepo.com/svg/373312/nginx) Nginx
-- ![Apache HTTP Server](https://commons.wikimedia.org/wiki/File:Apache_HTTP_server_logo_(2019-present).svg) Apache HTTP Server
-- ![Apache JMeter](https://jmeter.apache.org/images/logo.svg) Apache JMeter
-- ![Apache Guacamole](https://www.vectorlogo.zone/logos/apache_guacamole/apache_guacamole-icon.svg) Apache Guacamole
-- ![Snort](https://www.svgrepo.com/svg/374085/snort) Snort
-- ![Suricata](https://suricata.io/branding-images/suricata-logo-full-color.svg) Suricata
-- ![Nessus](https://commons.wikimedia.org/wiki/File:Nessus-Professional-FullColor-RGB.svg) Nessus
-- ![OpenVAS](https://commons.wikimedia.org/wiki/File:OpenVAS-Logo-2010.png) OpenVAS
-- ![Wireshark](https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg) Wireshark
-- ![Metasploit](https://commons.wikimedia.org/wiki/File:Metasploit_logo_and_wordmark.svg) Metasploit
-- ![John The Ripper](https://www.svgrepo.com/svg/374085/john-the-ripper) John The Ripper
-- ![Aircrack-ng](https://commons.wikimedia.org/wiki/File:Aircrack-ng-new-logo.jpg) Aircrack-ng
-- ![Hydra](https://www.svgrepo.com/svg/374085/hydra) Hydra
-- ![Netcat](https://www.svgrepo.com/svg/374085/netcat) Netcat
-- ![Sqmap](https://www.svgrepo.com/svg/374085/sqmap) Sqmap
+<!-- Nmap -->
+<img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
+<img width="12" />
+
+<!-- Burp Suite -->
+<img src="https://www.svgrepo.com/show/303251/burp-suite.svg" height="30" alt="Burp Suite logo" />
+<img width="12" />
+
+<!-- Cloudflare -->
+<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
+<img width="12" />
+
+<!-- Nginx -->
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="30" alt="Nginx logo" />
+<img width="12" />
+
+<!-- Apache -->
+<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" height="30" alt="Apache logo" />
+<img width="12" />
+
+<!-- Apache JMeter -->
+<img src="https://jmeter.apache.org/images/logo.svg" height="30" alt="Apache JMeter logo" />
+<img width="12" />
+
+<!-- Apache Guacamole -->
+<img src="https://www.vectorlogo.zone/logos/apache_guacamole/apache_guacamole-icon.svg" height="30" alt="Apache Guacamole logo" />
+<img width="12" />
+
+<!-- Snort -->
+<img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="30" alt="Snort logo" />
+<img width="12" />
+
+<!-- Suricata -->
+<img src="https://suricata.io/wp-content/uploads/2018/09/suricata-logo.svg" height="30" alt="Suricata logo" />
+<img width="12" />
+
+<!-- Nessus -->
+<img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/press-kit/tenable-nessus-logo-color.svg" height="30" alt="Nessus logo" />
+<img width="12" />
+
+<!-- OpenVAS -->
+<img src="https://www.openvas.org/images/openvas-logo.svg" height="30" alt="OpenVAS logo" />
+<img width="12" />
+
+<!-- Wireshark -->
+<img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" height="30" alt="Wireshark logo" />
+<img width="12" />
+
+<!-- Metasploit -->
+<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="30" alt="Metasploit logo" />
+<img width="12" />
+
+<!-- John The Ripper -->
+<img src="https://www.openwall.com/john/images/john-logo.svg" height="30" alt="John The Ripper logo" />
+<img width="12" />
+
+<!-- Aircrack-ng -->
+<img src="https://www.aircrack-ng.org/images/logo.svg" height="30" alt="Aircrack-ng logo" />
+<img width="12" />
+
+<!-- Hydra -->
+<img src="https://www.thc.org/thc-hydra/hydra-logo.svg" height="30" alt="Hydra logo" />
+<img width="12" />
+
+<!-- Netcat -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Netcat-logo.svg" height="30" alt="Netcat logo" />
+<img width="12" />
+
+<!-- SQLMap -->
+<img src="https://sqlmap.org/images/sqlmap-logo.svg" height="30" alt="SQLMap logo" />
+<img width="12" />
+
 
 </div>
 

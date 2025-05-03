@@ -1,48 +1,81 @@
-# 👋 Hello! I'm Marco Leiva
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🎯 **DevOps Administrator | Cybersecurity Specialist | Linux Enthusiast**
+###
 
-I'm a systems engineer from Guatemala with over 3 years of professional experience in systems administration, DevOps, and cybersecurity. I specialize in process automation, infrastructure management, and implementing secure practices in production environments.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mleivag3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mleivag3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 💼 Professional Experience
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF4eGRuNmVkZmRlNmhvazZmam1odGNrNm9haGpubmEycnVmenBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KgLSUaOfyarOLOOwz2/giphy.gif"  />
 
-- 🔧 **DevOps Administrator**: Automating CI/CD pipelines with Jenkins, managing containers using Docker, and deploying efficient infrastructure.
-- 🛡️ **Cybersecurity Specialist**: Master's degree in Cybersecurity, with hands-on experience in security audits, vulnerability management, and enterprise security solutions.
-- 🖥️ **Linux Administrator**: Managing Linux servers in high-availability environments.
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" alt="magento logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
-## ⚙️ Tools & Technologies
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/ManageEngine_logo.svg" width="80" alt="ManageEngine" />
-</p>
+<div align="left">
+</div>
 
-> 💡 Other tools: Git, GitHub Actions, Bash, Python scripting, Log analysis, Infrastructure hardening
+###
 
----
+<br clear="both">
 
-## 💻 Technical Skills
+<img src="https://raw.githubusercontent.com/mleivag3/mleivag3/output/snake.svg" alt="Snake animation" />
 
-- **Languages**: Python, PHP, C (intermediate)
-- **Scripting & Automation**: Bash, Python
-- **Infrastructure as Code (IaC)**: Exploring tools like Terraform and Ansible
-- **Operating Systems**: Linux (Debian, Ubuntu, CentOS), Windows Server
-
----
-
-## 📚 Education
-
-🎓 **Master's in Cybersecurity**  
-Advanced knowledge in security standards, incident response, digital forensics, and SIEM systems.
-
----
-
-📫 **Want to connect or collaborate?**  
-Feel free to message me on [LinkedIn](https://www.linkedin.com/) or explore my repositories to see more of my work.
+###

@@ -103,8 +103,8 @@
 <img width="12" />
 
 <!-- Suricata -->
-<img src="https://brandfetch.com/suricata.io/logo.svg" height="30" alt="Suricata logo" />
-<img width="12" />
+<img src="https://suricata.io/branding-images/suricata-logo-full-color.svg" height="30" alt="Suricata logo" />
+
 
 <!-- Nessus -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Nessus-Professional-FullColor-RGB.svg" height="30" alt="Nessus logo" />

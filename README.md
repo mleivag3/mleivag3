@@ -103,7 +103,8 @@
 <img width="12" />
 
 <!-- Suricata -->
-<img src="https://suricata.io/branding-images/suricata-logo-full-color.svg" height="30" alt="Suricata logo" />
+<img src="https://icons8.com/icon/13420/suricata" height="30" alt="Suricata logo" />
+<img width="12" />
 
 
 <!-- Nessus -->

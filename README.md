@@ -111,6 +111,9 @@
 <!-- Wireshark -->
 <img src="https://images.icon-icons.com/1495/PNG/512/wireshark_103123.png" height="30" alt="Wireshark logo" />
 <img width="12" />
+
+<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="30" alt="TryHackMe logo" />
+<img width="12" />
 </div>
 
 ###

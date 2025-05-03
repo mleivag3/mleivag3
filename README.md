@@ -104,13 +104,13 @@
 <!-- Snort -->
 <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="30" alt="Snort logo" />
 <img width="12" />
-<!-- Suricata -->
-<img src="https://icons8.com/icon/13420/suricata" height="30" alt="Suricata logo" />
-<img width="12" />
+
 <!-- OpenVAS -->
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ssgbiwYHOi9gIXt9pGCJYw.png" height="30" alt="OpenVAS logo" />
 <img width="12" />
-
+<!-- Wireshark -->
+<img src="https://cdn.iconduck.com/icons/311/504/wireshark-alt.svg" height="30" alt="Wireshark logo" />
+<img width="12" />
 </div>
 
 ###

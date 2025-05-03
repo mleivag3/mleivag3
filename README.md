@@ -78,10 +78,6 @@
 <img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
 <img width="12" />
 
-<!-- Burp Suite -->
-<img src="https://www.svgrepo.com/show/303251/burp-suite.svg" height="30" alt="Burp Suite logo" />
-<img width="12" />
-
 <!-- Cloudflare -->
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
 <img width="12" />
@@ -107,44 +103,49 @@
 <img width="12" />
 
 <!-- Suricata -->
-<img src="https://suricata.io/wp-content/uploads/2018/09/suricata-logo.svg" height="30" alt="Suricata logo" />
+<img src="https://brandfetch.com/suricata.io/logo.svg" height="30" alt="Suricata logo" />
 <img width="12" />
 
 <!-- Nessus -->
-<img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/press-kit/tenable-nessus-logo-color.svg" height="30" alt="Nessus logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Nessus-Professional-FullColor-RGB.svg" height="30" alt="Nessus logo" />
 <img width="12" />
 
 <!-- OpenVAS -->
-<img src="https://www.openvas.org/images/openvas-logo.svg" height="30" alt="OpenVAS logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenVAS_Logo.png" height="30" alt="OpenVAS logo" />
 <img width="12" />
 
 <!-- Wireshark -->
-<img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" height="30" alt="Wireshark logo" />
+<img src="https://www.svgrepo.com/show/377840/wireshark.svg" height="30" alt="Wireshark logo" />
+<img width="12" />
+
+<!-- Burp Suite -->
+<img src="https://www.svgrepo.com/show/354428/burp-suite.svg" height="30" alt="Burp Suite logo" />
 <img width="12" />
 
 <!-- Metasploit -->
-<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="30" alt="Metasploit logo" />
+<img src="https://brandfetch.com/metasploit.com/logo.svg" height="30" alt="Metasploit logo" />
 <img width="12" />
 
 <!-- John The Ripper -->
-<img src="https://www.openwall.com/john/images/john-logo.svg" height="30" alt="John The Ripper logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/John_the_Ripper_logo.png" height="30" alt="John The Ripper logo" />
 <img width="12" />
 
 <!-- Aircrack-ng -->
-<img src="https://www.aircrack-ng.org/images/logo.svg" height="30" alt="Aircrack-ng logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Aircrack-ng_logo.png" height="30" alt="Aircrack-ng logo" />
 <img width="12" />
 
 <!-- Hydra -->
-<img src="https://www.thc.org/thc-hydra/hydra-logo.svg" height="30" alt="Hydra logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Hydra_logo.png" height="30" alt="Hydra logo" />
 <img width="12" />
 
 <!-- Netcat -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Netcat-logo.svg" height="30" alt="Netcat logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Netcat_logo.png" height="30" alt="Netcat logo" />
 <img width="12" />
 
 <!-- SQLMap -->
-<img src="https://sqlmap.org/images/sqlmap-logo.svg" height="30" alt="SQLMap logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sqlmap_logo.png" height="30" alt="SQLMap logo" />
 <img width="12" />
+
 
 
 </div>

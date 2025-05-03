@@ -81,6 +81,9 @@
 <!-- Cloudflare -->
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
 <img width="12" />
+<!-- Burp Suite -->
+<img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="30" alt="Burp Suite logo" />
+<img width="12" />
 
 <!-- Nginx -->
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="30" alt="Nginx logo" />
@@ -100,47 +103,6 @@
 
 <!-- Snort -->
 <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="30" alt="Snort logo" />
-<img width="12" />
-
-<!-- Suricata -->
-<!-- Suricata -->
-<img src="https://icons8.com/icon/13420/suricata" height="30" alt="Suricata logo" />
-<img width="12" />
-
-<!-- Nessus -->
-<img src="https://seeklogo.com/images/N/nessus-professional-logo-353317/nessus-professional-logo-353317.svg" height="30" alt="Nessus logo" />
-<img width="12" />
-
-<!-- OpenVAS -->
-<img src="https://commons.wikimedia.org/wiki/File:OpenVAS-Logo-2010.png" height="30" alt="OpenVAS logo" />
-<img width="12" />
-
-<!-- Wireshark -->
-<img src="https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg" height="30" alt="Wireshark logo" />
-<img width="12" />
-
-<!-- Burp Suite -->
-<img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="30" alt="Burp Suite logo" />
-<img width="12" />
-
-<!-- Metasploit -->
-<img src="https://commons.wikimedia.org/wiki/File:Metasploit_logo_and_wordmark.svg" height="30" alt="Metasploit logo" />
-<img width="12" />
-
-<!-- Aircrack-ng -->
-<img src="https://commons.wikimedia.org/wiki/File:Aircrack-ng-new-logo.jpg" height="30" alt="Aircrack-ng logo" />
-<img width="12" />
-
-<!-- Hydra -->
-<img src="https://seeklogo.com/images/H/hydra-logo-210238/hydra-logo-210238.svg" height="30" alt="Hydra logo" />
-<img width="12" />
-
-<!-- Netcat -->
-<img src="https://seeklogo.com/images/N/netcat-logo-210238/netcat-logo-210238.svg" height="30" alt="Netcat logo" />
-<img width="12" />
-
-<!-- SQLMap -->
-<img src="https://commons.wikimedia.org/wiki/File:Sqlmap_logo.png" height="30" alt="SQLMap logo" />
 <img width="12" />
 
 

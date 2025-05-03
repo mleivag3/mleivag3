@@ -90,16 +90,16 @@
 <img src="https://www.svgrepo.com/svg/353400/apache" height="30" alt="Apache logo" />
 <img width="12" />
 <!-- Apache JMeter -->
-<img src="https://www.svgrepo.com/svg/329945/apachejmeter" height="30" alt="Apache JMeter logo" />
+<img src="https://jmeter.apache.org/images/logo.svg" height="30" alt="Apache JMeter logo" />
 <img width="12" />
 <!-- Apache Guacamole -->
-<img src="https://commons.wikimedia.org/wiki/File:Apache_Guacamole_logo.png" height="30" alt="Apache Guacamole logo" />
+<img src="https://www.vectorlogo.zone/logos/apache_guacamole/apache_guacamole-icon.svg" height="30" alt="Apache Guacamole logo" />
 <img width="12" />
 <!-- Snort -->
-<img src="https://www.svgrepo.com/svg/374085/snort" height="30" alt="Snort logo" />
+<img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="30" alt="Snort logo" />
 <img width="12" />
 <!-- Suricata -->
-<img src="https://www.svgrepo.com/svg/374085/suricata" height="30" alt="Suricata logo" />
+<img src="https://suricata.io/branding-images/suricata-logo-full-color.svg" height="30" alt="Suricata logo" />
 <img width="12" />
 <!-- Nessus -->
 <img src="https://commons.wikimedia.org/wiki/File:Nessus-Professional-FullColor-RGB.svg" height="30" alt="Nessus logo" />
@@ -108,14 +108,25 @@
 <img src="https://commons.wikimedia.org/wiki/File:OpenVAS-Logo-2010.png" height="30" alt="OpenVAS logo" />
 <img width="12" />
 <!-- Wireshark -->
-<img src="https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg" height="30" alt="Wireshark logo" />
+<img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg" height="30" alt="Wireshark logo" />
 <img width="12" />
 <!-- Metasploit -->
 <img src="https://commons.wikimedia.org/wiki/File:Metasploit_logo_and_wordmark.svg" height="30" alt="Metasploit logo" />
 <img width="12" />
 <!-- John The Ripper -->
 <img src="https://www.svgrepo.com/svg/374085/john-the-ripper" height="30" alt="John The Ripper logo" />
-<img
+<img width="12" />
+<!-- Aircrack-ng -->
+<img src="https://commons.wikimedia.org/wiki/File:Aircrack-ng-new-logo.jpg" height="30" alt="Aircrack-ng logo" />
+<img width="12" />
+<!-- Hydra -->
+<img src="https://www.svgrepo.com/svg/374085/hydra" height="30" alt="Hydra logo" />
+<img width="12" />
+<!-- Netcat -->
+<img src="https://www.svgrepo.com/svg/374085/netcat" height="30" alt="Netcat logo" />
+<img width="12" />
+<!-- Sqmap -->
+<img src="https://www.svgrepo.com/svg/374085/sqmap" height="30" alt="Sqmap logo" />
 
 
 

@@ -74,65 +74,6 @@
 
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
-<!-- Manage Engine -->
-<img src="https://cdn.simpleicons.org/manageengine/01B0F0" height="30" alt="manage engine logo" />
-<img width="12" />
-<!-- Nikto -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nikto/nikto-original.svg" height="30" alt="nikto logo" />
-<img width="12" />
-<!-- Nmap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="30" alt="nmap logo" />
-<img width="12" />
-<!-- Burp Suite -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" height="30" alt="burpsuite logo" />
-<img width="12" />
-<!-- Cloudflare -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo" />
-<img width="12" />
-<!-- Nginx -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
-<img width="12" />
-<!-- Apache -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-<img width="12" />
-<!-- Apache JMeter -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" height="30" alt="apache jmeter logo" />
-<img width="12" />
-<!-- Apache Guacamole -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/guacamole-original.svg" height="30" alt="apache guacamole logo" />
-<img width="12" />
-<!-- Snort -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snort/snort-original.svg" height="30" alt="snort logo" />
-<img width="12" />
-<!-- Suricata -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/suricata/suricata-original.svg" height="30" alt="suricata logo" />
-<img width="12" />
-<!-- Nessus -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nessus/nessus-original.svg" height="30" alt="nessus logo" />
-<img width="12" />
-<!-- OpenVAS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openvas/openvas-original.svg" height="30" alt="openvas logo" />
-<img width="12" />
-<!-- Wireshark -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="30" alt="wireshark logo" />
-<img width="12" />
-<!-- Metasploit -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="30" alt="metasploit logo" />
-<img width="12" />
-<!-- John The Ripper -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/john-the-ripper/john-the-ripper-original.svg" height="30" alt="john the ripper logo" />
-<img width="12" />
-<!-- Aircrack-ng -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aircrack-ng/aircrack-ng-original.svg" height="30" alt="aircrack-ng logo" />
-<img width="12" />
-<!-- Hydra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hydra/hydra-original.svg" height="30" alt="hydra logo" />
-<img width="12" />
-<!-- Netcat -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netcat/netcat-original.svg" height="30" alt="netcat logo" />
-<img width="12" />
-<!-- Sqmap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqmap/sqmap-original.svg" height="30" alt="sqmap logo" />
 
 
 </div>

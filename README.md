@@ -82,7 +82,7 @@
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
 <img width="12" />
 <!-- Burp Suite -->
-<img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="30" alt="Burp Suite logo" />
+<img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FE5%2Fqn%2FELSDRTZ4CJV1-180x180.PNG&w=256&q=75" height="30" alt="Burp Suite logo" />
 <img width="12" />
 
 <!-- Nginx -->
@@ -124,6 +124,11 @@
 
 <!-- Manage Engine -->
 <img src="https://www.airslate.com/preview/explorebots/it-infrastructure/manageengine-opmanager.svg" height="30" alt="Docker Swarm logo" />
+<img width="12" />
+
+
+<!-- LINUX -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png" height="30" alt="Docker Swarm logo" />
 <img width="12" />
 </div>
 

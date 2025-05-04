@@ -65,9 +65,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img width="12" />
+ 
   <!-- Laravel -->
  <!-- Laravel con mejor contraste -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
@@ -84,6 +82,10 @@
 <!-- Nginx -->
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="30" alt="Nginx logo" />
 <img width="12" />
+
+ <!-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
+  <img width="12" />
 
 <!-- Apache -->
 <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" height="30" alt="Apache logo" />

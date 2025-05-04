@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+
  
   <!-- Laravel -->
  <!-- Laravel con mejor contraste -->

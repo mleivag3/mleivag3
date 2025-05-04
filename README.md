@@ -74,10 +74,6 @@
 
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
-<!-- Nmap -->
-<img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
-<img width="12" />
-
 <!-- Cloudflare -->
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
 <img width="12" />
@@ -103,6 +99,9 @@
 
 <!-- Snort -->
 <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="30" alt="Snort logo" />
+<img width="12" />
+<!-- Nmap -->
+<img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="Nmap logo" />
 <img width="12" />
 
 <!-- OpenVAS -->

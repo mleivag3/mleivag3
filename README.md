@@ -87,13 +87,17 @@
  <!-- Kubernetes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
+  
+<!-- Mysql -->
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="30" alt="mysql" />
+<img width="12" />
 
 <!-- Apache -->
 <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" height="30" alt="Apache logo" />
 <img width="12" />
 
-<!-- Apache JMeter -->
-<img src="https://jmeter.apache.org/images/logo.svg" height="30" alt="Apache JMeter logo" />
+<!-- Mysql -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="30" alt="postgres" />
 <img width="12" />
 
 <!-- Apache Guacamole -->

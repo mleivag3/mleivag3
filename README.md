@@ -66,12 +66,13 @@
   <img width="12" />
 
  
-  <!-- Laravel -->
+
  <!-- Laravel con mejor contraste -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-
+<img width="12" />
   <!-- Elasticsearch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
+  <img width="12" />
 <!-- Cloudflare -->
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare logo" />
 <img width="12" />

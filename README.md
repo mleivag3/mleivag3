@@ -114,6 +114,10 @@
 
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="30" alt="TryHackMe logo" />
 <img width="12" />
+
+<!-- Docker Swarm -->
+<img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" height="30" alt="Docker Swarm logo" />
+<img width="12" />
 </div>
 
 ###

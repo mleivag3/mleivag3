@@ -152,9 +152,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="30" alt="selenum" />
 <img width="12" />
 
-<!-- sonarqube-->
-<img src="https://icons-for-free.com/iff/png/512/sonarqube-1336519700268537013.png" height="30" alt="sonarqube" />
-<img width="12" />
+
 </div>
 
 ###

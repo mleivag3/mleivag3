@@ -120,7 +120,9 @@
 
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="30" alt="TryHackMe logo" />
 <img width="12" />
-
+<!-- GIT -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="30" alt="LINUX" />
+<img width="12" />
 <!-- Docker Swarm -->
 <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" height="30" alt="Docker Swarm logo" />
 <img width="12" />
@@ -140,6 +142,18 @@
 <img width="12" />
 <!-- LINUX -->
 <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Free-Download.png" height="30" alt="LINUX" />
+<img width="12" />
+
+<!-- podman -->
+<img src="https://icon.icepanel.io/Technology/svg/Podman.svg" height="30" alt="podman" />
+<img width="12" />
+
+<!-- selenum -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="30" alt="selenum" />
+<img width="12" />
+
+<!-- sonarqube-->
+<img src="https://icons-for-free.com/iff/png/512/sonarqube-1336519700268537013.png" height="30" alt="sonarqube" />
 <img width="12" />
 </div>
 

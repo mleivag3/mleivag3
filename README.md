@@ -116,7 +116,7 @@
 <img width="12" />
 
 <!-- Docker Swarm -->
-<img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" height="30" alt="Docker Swarm logo" />
+<img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" height="30" alt="Docker Swarm logo" />
 <img width="12" />
 </div>
 

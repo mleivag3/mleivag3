@@ -118,6 +118,11 @@
 <!-- Docker Swarm -->
 <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" height="30" alt="Docker Swarm logo" />
 <img width="12" />
+
+
+<!-- Manage Engine -->
+<img src="https://www.airslate.com/preview/explorebots/it-infrastructure/manageengine-opmanager.svg" height="30" alt="Docker Swarm logo" />
+<img width="12" />
 </div>
 
 ###

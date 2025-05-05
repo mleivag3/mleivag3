@@ -132,6 +132,9 @@
 <!--  Crowstrike -->
 <img src="https://vectorseek.com/wp-content/uploads/2023/12/CrowdStrike-Icon-Logo-Vector.svg-.png" height="30" alt="Docker Swarm logo" />
 <img width="12" />
+<!-- owasp -->
+<img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" height="30" alt="owasp" />
+<img width="12" />
 
 <!-- Manage Engine -->
 <img src="https://www.airslate.com/preview/explorebots/it-infrastructure/manageengine-opmanager.svg" height="30" alt="Docker Swarm logo" />

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marco%20Leiva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marco%20Leiva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cibersecurity&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyendo+la+web+desde+cero+%F0%9F%9A%80;Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%E2%9A%99%EF%B8%8F;Apasionado+por+el+c%C3%B3digo+limpio+%E2%9C%A8;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%94%A5)](https://git.io/typing-svg)
 

@@ -18,8 +18,8 @@
 
 ```yaml
 nombre:    Marco Leiva
-ubicacion: Chile 🇨🇱
-rol:       Full Stack Developer & DevOps
+ubicacion: Guatemala
+rol:       DevOps, DevSecOps, Cybersecurity, Infraestructura, Redes, SysAdmin, AWS administrator.
 enfoque:   Web moderna + automatización
 ```
 

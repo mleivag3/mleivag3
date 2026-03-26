@@ -64,14 +64,6 @@ enfoque:   Web moderna + automatización
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleivag3&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8" width="40%"/>
 </div>
 
----
-### 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mleivag3&theme=darkhub&no-frame=true&margin-w=15"/>
-</div>
----
-
 ### 📈 Actividad
 
 <div align="center">

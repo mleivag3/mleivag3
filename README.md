@@ -65,12 +65,8 @@ enfoque:   Web moderna + automatización
 </div>
 
 ---
-
-### 🏆 Trofeos
-
-<div align="center">
- [ <img src="https://github-profile-trophy.vercel.app/?username=mleivag3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>](https://github-profile-trophy-git-master-ridemountainpig.vercel.app/?username=TU_USER)
-</div>
+🏆 Trofeos
+<div align="center"> <img src="https://github-profile-trophy-git-master-ridemountainpig.vercel.app/?username=mleivag3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/> </div>
 
 ---
 

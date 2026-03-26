@@ -1,56 +1,103 @@
-<h1 align="center">Hola, soy Marco Leiva 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Desarrollador Web & DevOps</b><br/>
-  Construyendo soluciones con código limpio, contenedores y automatización
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marco%20Leiva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyendo+la+web+desde+cero+%F0%9F%9A%80;Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%E2%9A%99%EF%B8%8F;Apasionado+por+el+c%C3%B3digo+limpio+%E2%9C%A8;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-## 🚀 Sobre mí
+<br/>
 
-- 💻 Desarrollo aplicaciones web con **HTML, CSS y JavaScript**
-- 🐘 Backend con **PHP** y manejo de correos con **PHPMailer**
-- 🐳 Despliegue con **Docker** (Apache2, contenedores, imágenes personalizadas)
-- ⚙️ Automatización con **GitHub Actions** (CI/CD hacia servidores propios)
-- 🌐 Proyectos responsivos adaptados para móvil y escritorio
+<img src="https://komarev.com/ghpvc/?username=mleivag3&color=58A6FF&style=for-the-badge&label=Visitas+al+perfil"/>
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-</p>
+### 👨‍💻 Sobre mí
 
----
+```yaml
+nombre:    Marco Leiva
+ubicacion: Chile 🇨🇱
+rol:       Full Stack Developer & DevOps
+enfoque:   Web moderna + automatización
+```
 
-## 📌 Proyecto destacado
+- 🔭 Trabajando en proyectos web escalables
+- 🐳 Desplegando con **Docker** y servidores propios
+- ⚡ Automatizando flujos con **GitHub Actions**
+- 🌱 Explorando nuevas tecnologías constantemente
+- 💬 Pregúntame sobre **HTML, CSS, JS, PHP, Docker**
 
-### [Nexabit](https://github.com/mleivag3/nexabit)
-Sitio web empresarial construido en HTML/CSS/JS con diseño responsivo, formulario de contacto vía PHP/PHPMailer, servidor Apache en Docker y despliegue automático con GitHub Actions.
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mleivag3&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleivag3&layout=compact&theme=dark&hide_border=true" width="38%"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## 📫 Contacto
+### 🛠️ Stack Tecnológico
 
-<p>
-  <a href="https://github.com/mleivag3">
-    <img src="https://img.shields.io/badge/GitHub-mleivag3-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark"/>
+
+**Backend & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=php,docker,nginx,apache&theme=dark"/>
+
+**DevOps & Workflow**
+
+<img src="https://skillicons.dev/icons?i=github,githubactions,linux,bash&theme=dark"/>
+
+</div>
+
+---
+
+### 📊 Estadísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mleivag3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mleivag3&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleivag3&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8" width="40%"/>
+</div>
+
+---
+
+### 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mleivag3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+</div>
+
+---
+
+### 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mleivag3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff"/>
+</div>
+
+---
+
+### 🐍 Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mleivag3/mleivag3/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Conectemos
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mleivag3)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
